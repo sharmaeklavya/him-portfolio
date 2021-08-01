@@ -12,8 +12,8 @@ function Contact() {
             </p>
             <br />
             <p>
-              My usual working hours are: 8:00AM to 8:00PM. However, I can be
-              contacted at any time in the emergency
+              My usual working hours are: 8:00 AM to 8:00 PM. However, I can be
+              contacted at any time in case of emergency.
             </p>
             <div className="icons">
               <div className="row">

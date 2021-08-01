@@ -31,12 +31,13 @@ function About() {
             </div>
             <p>
               An MBA graduate in Finance. Very detail-oriented and hard-working
-              individual having 6 years of work experience in the corporates.
+              individual having years of work experience with corporates and
+              independent clients.
             </p>
             <br />
             <p>
               Proficient in BUSY, Tally ERP9 version. Excellent in MS-Excel,
-              MS-Word, MS-Powerpoint
+              MS-Word, MS-Powerpoint.
             </p>
             <br />
             <p>

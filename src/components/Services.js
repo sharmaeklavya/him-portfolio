@@ -37,15 +37,15 @@ function Services() {
                 <div className="text">Liability and processing of payment</div>
                 <p>
                   Collection and preparation of data for VAT/ CST/ WCT payment
-                  and deposit the tax liability before the due date.
+                  and deposit the tax liability before the due date
                 </p>
                 <p>
                   Actively involved in monthly, quarterly, and yearly finance
-                  closing.
+                  closing
                 </p>
                 <p>Maintaining Bank reconciliation statements monthly basis</p>
                 <p>
-                  Verification of bills &amp; reconciliation of total turnover.
+                  Verification of bills &amp; reconciliation of total turnover
                 </p>
               </div>
             </div>
