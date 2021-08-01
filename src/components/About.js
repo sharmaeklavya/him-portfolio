@@ -38,6 +38,11 @@ function About() {
               Proficient in BUSY, Tally ERP9 version. Excellent in MS-Excel,
               MS-Word, MS-Powerpoint
             </p>
+            <br />
+            <p>
+              ROC, Company/Partnership Firm/ One Person Company. Sole
+              Proprietorship and NGO Registration, Food license and MCD license
+            </p>
             <a
               class="btn line-btn-dark btn-icon btn-radius"
               href="resume.pdf"

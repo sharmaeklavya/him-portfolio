@@ -12,7 +12,11 @@ function Home() {
             <Typewriter
               id="typing"
               options={{
-                strings: ["GST Practitioner", "n Accountant", "ITR Filer"],
+                strings: [
+                  "n Accountant",
+                  "GST Practitioner",
+                  "proficient in BUSY, Tally ERP9",
+                ],
                 autoStart: true,
                 loop: true,
               }}

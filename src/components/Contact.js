@@ -21,7 +21,7 @@ function Contact() {
                 <div className="info">
                   <div className="head">Mobile Number</div>
                   <div className="sub-title">
-                    <a href="tel:9999999999">9999999999</a>
+                    <a href="tel:9650621761">9650621761</a>
                   </div>
                 </div>
               </div>
