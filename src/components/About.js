@@ -40,8 +40,9 @@ function About() {
             </p>
             <br />
             <p>
-              ROC, Company/Partnership Firm/ One Person Company. Sole
-              Proprietorship and NGO Registration, Food license and MCD license
+              ITR Filing, ROC, Company/Partnership Firm/ One Person Company,
+              Sole Proprietorship and NGO registration, also deals in Food
+              license and MCD licenses.
             </p>
             <a
               class="btn line-btn-dark btn-icon btn-radius"
