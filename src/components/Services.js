@@ -32,7 +32,7 @@ function Services() {
             <div className="card">
               <div className="box">
                 <i className="fas fa-file-signature"></i>
-                <div className="text">Income Tax Returns &amp; GST Filing</div>
+                <div className="text">ITR &amp; GST Filing</div>
                 <p>TDS returns and advise</p>
                 <p>GST Compliances</p>
                 <p>Yearly budgeting</p>
