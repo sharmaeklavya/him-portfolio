@@ -10,9 +10,9 @@ function Services() {
               <div className="box">
                 <i className="fas fa-book-open"></i>
                 <div className="text">Financial Planning</div>
-                <p>Life Insurance Corporation</p>
-                <p>Star Health Mediclaim</p>
                 <p>Investment Advise</p>
+                <p>Star Health Mediclaim</p>
+                <p>Life Insurance Corporation</p>
               </div>
             </div>
 
@@ -24,8 +24,8 @@ function Services() {
                 <p>Stock Maintenance</p>
                 <p>MSME Registration</p>
                 <p>Labour Certificate</p>
-                <p>Maintaining Book Reconciliation</p>
                 <p>Verification of bills</p>
+                <p>Maintaining Book Reconciliation</p>
               </div>
             </div>
 
