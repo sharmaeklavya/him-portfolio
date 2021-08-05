@@ -45,14 +45,6 @@ function About() {
               Sole Proprietorship and NGO registration, also deals in Food
               license and MCD licenses.
             </p>
-            <a
-              class="btn line-btn-dark btn-icon btn-radius"
-              href="resume.pdf"
-              title="Himanshu resume"
-              download
-            >
-              Download CV
-            </a>
           </div>
         </div>
       </div>
