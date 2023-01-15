@@ -40,7 +40,7 @@ function Contact() {
           </div>
           <div className="column right">
             <div className="text">Message me</div>
-            <form action="#">
+            <form action="https://formsubmit.co/himanshusondhi9@gmail.com">
               <div className="fields">
                 <div className="field name">
                   <input type="text" placeholder="Name" required />
