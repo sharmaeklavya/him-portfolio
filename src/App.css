@@ -552,6 +552,9 @@ section .title::after {
   color: crimson;
   background: none;
 }
+.payment {
+  color: crimson;
+}
 /* footer section styling */
 footer {
   background: #111;

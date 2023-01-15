@@ -15,6 +15,12 @@ function Contact() {
               My usual working hours are: 8:00 AM to 8:00 PM. However, I can be
               contacted at any time in case of emergency.
             </p>
+            <br />
+            <p>
+              To make a payment for my services. Head to your UPI app. Type in
+              <span className="payment">&nbsp;h.sondhi@paytm</span>. Enter your
+              secret PIN and Voila!
+            </p>
             <div className="icons">
               <div className="row">
                 <i className="fas fa-mobile-alt"></i>
@@ -36,27 +42,52 @@ function Contact() {
                   </div>
                 </div>
               </div>
+              <div className="row">
+                <i class="fas fa-rupee-sign"></i>
+                <div className="info">
+                  <div className="head">Payment</div>
+                  <div className="sub-title">
+                    <a href="upi://pay?pa=h.sondhi@paytm&pn=HimanshuSondhi&cu=INR&mc=gpay">
+                      Pay me directly. Thanks.
+                    </a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
           <div className="column right">
             <div className="text">Message me</div>
-            <form action="https://formsubmit.co/himanshusondhi9@gmail.com">
+            <form
+              action="https://formsubmit.co/himanshusondhi9@gmail.com"
+              method="POST"
+            >
               <div className="fields">
                 <div className="field name">
-                  <input type="text" placeholder="Name" required />
+                  <input type="text" placeholder="Name" name="name" required />
                 </div>
                 <div className="field email">
-                  <input type="email" placeholder="Email" required />
+                  <input
+                    type="email"
+                    placeholder="Email"
+                    name="email"
+                    required
+                  />
                 </div>
               </div>
               <div className="field">
-                <input type="text" placeholder="Subject" required />
+                <input
+                  type="text"
+                  placeholder="Subject"
+                  name="subject"
+                  required
+                />
               </div>
               <div className="field textarea">
                 <textarea
                   cols="30"
                   rows="10"
                   placeholder="Message.."
+                  name="message"
                   required
                 ></textarea>
               </div>
