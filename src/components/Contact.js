@@ -48,7 +48,8 @@ function Contact() {
                   <div className="head">Payment</div>
                   <div className="sub-title">
                     <a href="upi://pay?pa=h.sondhi@paytm&pn=HimanshuSondhi&cu=INR&mc=gpay">
-                      Pay me directly. Thanks.
+                      Click to<span className="payment">&nbsp;Pay me </span>
+                      directly. Thanks.
                     </a>
                   </div>
                 </div>
